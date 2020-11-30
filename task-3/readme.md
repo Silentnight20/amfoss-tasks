@@ -1,0 +1,1 @@
+This task was really challenging. I had no experience in coding prior to doing these tasks as I had physical education in my class 11th and 12th. I skipped this task earlier, but after working on other tasks, I had some control over python when compared to other and thus did 9/10 questions.
